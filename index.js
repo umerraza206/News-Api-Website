@@ -47,4 +47,5 @@ function cards() {
         cardFooter.append(datePublished,nameAuthor)
     }
 }
+cards()
 emit()
